@@ -1,1 +1,1 @@
-A HTML catphotoapp static webpage
+A HTML static webpage
